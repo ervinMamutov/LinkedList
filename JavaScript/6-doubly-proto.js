@@ -53,3 +53,4 @@ console.dir(list.pop());
 list.push({ name: 'tre' });
 console.dir(list.pop());
 console.dir(list.pop());
+console.dir(list.pop());
